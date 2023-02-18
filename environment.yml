@@ -1,0 +1,9 @@
+name: webscrapper
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - selenium
+  - beautifulsoup4
+  - ipykernel
+  - lxml
